@@ -1,0 +1,29 @@
+{
+  "name": "linked-list-kata",
+  "type": "module",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Kata for implementing a LinkedList in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mana-One/linked-list-kata.git"
+  },
+  "author": "Paolo Manaois",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Mana-One/linked-list-kata/issues"
+  },
+  "homepage": "https://github.com/Mana-One/linked-list-kata#readme",
+  "devDependencies": {
+    "@types/jest": "30.0.0",
+    "@types/node": "25.5.0",
+    "jest": "30.3.0",
+    "ts-jest": "29.4.9",
+    "ts-node": "10.9.2",
+    "typescript": "6.0.2"
+  }
+}
